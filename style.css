@@ -1,0 +1,19 @@
+body {
+  color: white;
+  margin-top: 40vh;
+  font-family: Tahoma, sans-serif;
+}
+
+body > div {
+  width: 360px;
+  margin: 0 auto;
+  text-align: center;
+  letter-spacing: 0.1em;
+}
+
+#time {
+  font-size: 3em;
+}
+#hexCode {
+  font-size: 1.5em;
+}
